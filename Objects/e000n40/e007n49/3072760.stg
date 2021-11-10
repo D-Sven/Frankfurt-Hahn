@@ -1,0 +1,118 @@
+OBJECT_SHARED Models/Power/windturbine.xml 7.1722222 49.8763889 536.44 180
+OBJECT_SHARED Models/Airport/marker.ac 7.200208 49.884753 475.51 180
+OBJECT_SHARED Models/Airport/marker.ac 7.245367 49.930717 504.12 180
+OBJECT_SHARED Models/Misc/generic_church_02.ac 7.0225 49.9177778 121.49 180
+OBJECT_SHARED Models/Airport/localizer.xml 7.244211 49.928708 505.98 148
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.002239 49.996031 176.96 227.74
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.006069 49.998741 176.32 227.81
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.008377 49.978401 101.46 98.32
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.026148 49.980892 103.89 42.58
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.03289 49.979889 103.53 239.77
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.046702 49.975357 101.14 296.52
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.062196 49.969273 102.94 351.84
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.070008 49.96785 103.25 286.02
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.078207 49.968136 101.21 340.79
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.106206 49.980984 104.39 67.16
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.11445 49.996746 97.24 342.31
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.114919 49.989563 105.74 339.78
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 7.015212 49.980705 103.22 175.49
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 7.020546 49.981026 102.72 109.03
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 7.027426 49.980251 104.23 336.89
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 7.046236 49.975067 101.54 116.57
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 7.051022 49.972939 101.72 168.02
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 7.102711 49.982452 102.36 226.98
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 7.114941 49.992653 97.52 112.78
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 7.116794 49.987633 97.71 233.02
+# Objects for EDRM Traben-Trarbach Mont Royal, Germany
+OBJECT_SHARED /home/sven/Flightgear/Hunsrueck/Objects/e000n40/e007n49/EDRM_main_building.ac 7.11081118 49.97116091 279.1630 178.3 0.2 -0.0
+OBJECT_SHARED /home/sven/Flightgear/Hunsrueck/Objects/e000n40/e007n49/EDRM_Hangar.ac 7.11117647 49.97170522 279.5721 152.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11111262 49.97161776 279.6037 157.6 0.0 -1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11112554 49.97161434 279.6213 157.6 0.0 -1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11114496 49.97160929 279.6481 158.2 0.0 -1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11117089 49.97160261 279.6830 158.2 0.0 -1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11119682 49.97159592 279.7179 158.2 0.0 -1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11122275 49.97158924 279.7538 158.2 0.0 -1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11123743 49.97157698 279.7704 97.0 0.0 --0.1
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11123479 49.97155953 279.7615 71.8 0.0 --0.4
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11122608 49.97154246 279.7458 71.8 0.0 --0.4
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11121737 49.97152539 279.7277 71.8 0.0 --0.6
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11120867 49.97150832 279.7096 71.8 0.0 --0.4
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11119996 49.97149125 279.6944 71.8 0.0 --0.4
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11119125 49.97147417 279.6797 71.8 0.0 --0.4
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11117330 49.97146360 279.6567 13.1 0.0 --0.9
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11114615 49.97146376 279.6238 345.8 0.0 --1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11111928 49.97146864 279.5903 342.7 0.0 --0.9
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11109344 49.97147531 279.5583 333.6 0.0 --0.9
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11106897 49.97148395 279.5293 328.9 0.0 --0.8
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11104627 49.97149433 279.4985 320.2 0.0 --1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11102480 49.97150583 279.4663 320.2 0.0 --0.8
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11100333 49.97151732 279.4390 320.2 0.0 --0.7
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11098303 49.97152961 279.4132 313.3 0.0 --0.8
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11096389 49.97154270 279.3860 313.3 0.0 --0.8
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11094475 49.97155578 279.3582 313.3 0.0 --0.8
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11092560 49.97156887 279.3290 313.3 0.0 --0.9
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11090646 49.97158195 279.2974 313.3 0.0 --0.9
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11088732 49.97159504 279.2653 313.3 0.0 --0.9
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11088272 49.97160997 279.2566 249.1 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11089268 49.97162676 279.2698 249.1 0.0 -0.3
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11090263 49.97164355 279.2830 249.1 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11091259 49.97166033 279.2962 249.1 0.0 -0.3
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11092254 49.97167712 279.3099 249.1 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11093250 49.97169391 279.3241 249.1 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11098214 49.97143481 279.4059 173.1 0.0 -1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11100987 49.97143264 279.4412 173.1 0.0 -1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11103760 49.97143046 279.4769 173.1 0.0 -1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11106533 49.97142829 279.5125 173.1 0.0 -1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11109306 49.97142612 279.5463 173.1 0.0 -0.9
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11112079 49.97142395 279.5795 173.1 0.0 -1.0
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11115980 49.97164903 279.6747 67.7 0.0 --0.5
+OBJECT_SHARED Models/Boundaries/CrowdBarrier.ac 7.11114920 49.97163241 279.6569 67.7 0.0 --0.5
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.11102654 49.97153443 279.4754 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.11108096 49.97151359 279.5469 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.11113344 49.97149795 279.6121 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.11116895 49.97151684 279.6651 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.11111169 49.97154050 279.5905 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.11105428 49.97156119 279.5167 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.11107915 49.97158934 279.5542 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.11112872 49.97157320 279.6184 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.11118172 49.97155461 279.6896 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.11105901 49.97163898 279.5284 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.11101562 49.97159541 279.4629 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnic_table.ac 7.11098343 49.97156792 279.4159 0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnictablegreen1.ac 7.11080886 49.97155820 279.1553 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/lipa.xml 7.11114787 49.97147967 279.6291 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/line_trees.xml 7.11095295 49.96959770 278.2837 358.2 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-open.ac 7.11284707 49.97117280 280.6685 84.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-red.ac 7.11282793 49.97099389 280.3617 84.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-blue.ac 7.11284020 49.97108302 280.5138 84.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11192652 49.97065222 279.5286 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11191454 49.97020313 278.8777 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11190254 49.96975404 278.2279 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11189054 49.96930495 277.5786 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11187852 49.96885586 276.9281 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11186651 49.96840676 276.2785 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11185449 49.96795767 275.6313 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11184247 49.96750858 274.8985 89.0 0.0 --0.9
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11183045 49.96705949 274.0773 89.0 0.0 --0.9
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11181843 49.96661040 273.2540 89.0 0.0 --0.9
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11180641 49.96616131 272.4311 89.0 0.0 --0.9
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11179438 49.96571222 271.6086 89.0 0.0 --0.9
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11178236 49.96526313 270.7859 89.0 0.0 --0.9
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11177034 49.96481404 269.9652 89.0 0.0 --0.9
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11151189 49.97065463 279.3546 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11149985 49.97020553 278.7759 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11148780 49.96975644 278.1984 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11147575 49.96930735 277.6212 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11146380 49.96885826 277.0445 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11145196 49.96840917 276.4682 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11144011 49.96796008 275.8918 89.0 0.0 --0.7
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11142826 49.96751098 275.1888 89.0 0.0 --0.9
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11141641 49.96706189 274.3592 89.0 0.0 --1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11140456 49.96661280 273.5291 89.0 0.0 --1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11139271 49.96616370 272.6993 89.0 0.0 --1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11138086 49.96571461 271.8695 89.0 0.0 --1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11136902 49.96526552 271.0405 89.0 0.0 --0.9
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 7.11135717 49.96481643 270.2125 89.0 0.0 --0.9
+OBJECT_SHARED Models/Airport/Vehicle/supacat_winch.xml 7.11203825 49.96444767 269.0314 356.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/Cessna150.xml 7.11111761 49.97083264 279.3162 96.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/DR400-blue.xml 7.11109299 49.97099632 279.3782 96.0 0.0 -0.0

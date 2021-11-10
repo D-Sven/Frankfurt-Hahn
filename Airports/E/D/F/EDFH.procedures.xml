@@ -1,0 +1,2559 @@
+<ProceduresDB build='By Sven Seipp, Nov 2021'>
+	<Airport ICAOcode="EDFH">
+		<Sid Name="NVO3G" Runways="03">
+			<Sid_Waypoint ID="1">
+				<Name>FH065</Name>
+				<Type>Normal</Type>
+				<Latitude>50.123833</Latitude>
+				<Longitude>7.437500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>FH068</Name>
+				<Type>Normal</Type>
+				<Latitude>50.174167</Latitude>
+				<Longitude>7.386167</Longitude>
+				<Speed>250</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>NVO</Name>
+				<Type>Normal</Type>
+				<Latitude>50.822667</Latitude>
+				<Longitude>6.636500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="RUDOT1E" Runways="03">
+			<Sid_Waypoint ID="1">
+				<Name>FH060</Name>
+				<Type>Normal</Type>
+				<Latitude>50.015833</Latitude>
+				<Longitude>7.330333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>FH061</Name>
+				<Type>Normal</Type>
+				<Latitude>50.059500</Latitude>
+				<Longitude>7.226833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>ABDAP</Name>
+				<Type>Normal</Type>
+				<Latitude>49.991333</Latitude>
+				<Longitude>7.157000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>RUDOT</Name>
+				<Type>Normal</Type>
+				<Latitude>49.993333</Latitude>
+				<Longitude>6.904333</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+                <Sid Name="RUDOT1T" Runways="03">
+			<Sid_Waypoint ID="1">
+				<Name>FH063</Name>
+				<Type>Normal</Type>
+				<Latitude>50.102833</Latitude>
+				<Longitude>7.416500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="2">
+				<Name>FH066</Name>
+				<Type>Normal</Type>
+				<Latitude>50.145167</Latitude>
+				<Longitude>7.316167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>FH061</Name>
+				<Type>Normal</Type>
+				<Latitude>50.059500</Latitude>
+				<Longitude>7.226833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>ABDAP</Name>
+				<Type>Normal</Type>
+				<Latitude>49.991333</Latitude>
+				<Longitude>7.157000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="5">
+				<Name>RUDOT</Name>
+				<Type>Normal</Type>
+				<Latitude>49.993333</Latitude>
+				<Longitude>6.904333</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+                <Sid Name="IDARO8E" Runways="03">
+			<Sid_Waypoint ID="1">
+				<Name>FH060</Name>
+				<Type>Normal</Type>
+				<Latitude>50.015833</Latitude>
+				<Longitude>7.330333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>FH061</Name>
+				<Type>Normal</Type>
+				<Latitude>50.059500</Latitude>
+				<Longitude>7.226833</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>ABDAP</Name>
+				<Type>Normal</Type>
+				<Latitude>49.991333</Latitude>
+				<Longitude>7.157000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>IDARO</Name>
+				<Type>Normal</Type>
+				<Latitude>49.706833</Latitude>
+				<Longitude>6.955167</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+                <Sid Name="IDARO4T" Runways="03">
+			<Sid_Waypoint ID="1">
+				<Name>FH063</Name>
+				<Type>Normal</Type>
+				<Latitude>50.102833</Latitude>
+				<Longitude>7.416500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="2">
+				<Name>FH066</Name>
+				<Type>Normal</Type>
+				<Latitude>50.145167</Latitude>
+				<Longitude>7.316167</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>FH061</Name>
+				<Type>Normal</Type>
+				<Latitude>50.059500</Latitude>
+				<Longitude>7.226833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>ABDAP</Name>
+				<Type>Normal</Type>
+				<Latitude>49.991333</Latitude>
+				<Longitude>7.157000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="5">
+				<Name>IDARO</Name>
+				<Type>Normal</Type>
+				<Latitude>49.706833</Latitude>
+				<Longitude>6.955167</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="GEBDA5E" Runways="03">
+			<Sid_Waypoint ID="1">
+				<Name>FH060</Name>
+				<Type>Normal</Type>
+				<Latitude>50.015833</Latitude>
+				<Longitude>7.330333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>FH067</Name>
+				<Type>Normal</Type>
+				<Latitude>50.011333</Latitude>
+				<Longitude>7.438167</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>OLIVI</Name>
+				<Type>Normal</Type>
+				<Latitude>49.778333</Latitude>
+				<Longitude>7.605500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>GEBDA</Name>
+				<Type>Normal</Type>
+				<Latitude>49.102500</Latitude>
+				<Longitude>8.287500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="ULKIG1E" Runways="03">
+			<Sid_Waypoint ID="1">
+				<Name>FH060</Name>
+				<Type>Normal</Type>
+				<Latitude>50.015833</Latitude>
+				<Longitude>7.330333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>FH061</Name>
+				<Type>Normal</Type>
+				<Latitude>50.059500</Latitude>
+				<Longitude>7.226833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>FH062</Name>
+				<Type>Normal</Type>
+				<Latitude>50.014667</Latitude>
+				<Longitude>7.227333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964833</Latitude>
+				<Longitude>7.280833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="5">
+				<Name>ABSIX</Name>
+				<Type>Normal</Type>
+				<Latitude>49.929500</Latitude>
+				<Longitude>7.330333</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="6">
+				<Name>FH081</Name>
+				<Type>Normal</Type>
+				<Latitude>49.889167</Latitude>
+				<Longitude>7.594167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="7">
+				<Name>ULKIG</Name>
+				<Type>Normal</Type>
+				<Latitude>49.869667</Latitude>
+				<Longitude>7.719500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+                <Sid Name="ULKIG1T" Runways="03">
+			<Sid_Waypoint ID="1">
+				<Name>FH063</Name>
+				<Type>Normal</Type>
+				<Latitude>50.102833</Latitude>
+				<Longitude>7.416500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="2">
+				<Name>FH066</Name>
+				<Type>Normal</Type>
+				<Latitude>50.145167</Latitude>
+				<Longitude>7.316167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>FH064</Name>
+				<Type>Normal</Type>
+				<Latitude>50.127500</Latitude>
+				<Longitude>7.306333</Longitude>
+				<Speed>240</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964833</Latitude>
+				<Longitude>7.280833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="5">
+				<Name>ABSIX</Name>
+				<Type>Normal</Type>
+				<Latitude>49.929500</Latitude>
+				<Longitude>7.330333</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="6">
+				<Name>FH081</Name>
+				<Type>Normal</Type>
+				<Latitude>49.889167</Latitude>
+				<Longitude>7.594167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="7">
+				<Name>ULKIG</Name>
+				<Type>Normal</Type>
+				<Latitude>49.869667</Latitude>
+				<Longitude>7.719500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+                <Sid Name="NVO3S" Runways="21">
+			<Sid_Waypoint ID="1">
+				<Name>FH070</Name>
+				<Type>Normal</Type>
+				<Latitude>49.864333</Latitude>
+				<Longitude>7.178000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>FH073</Name>
+				<Type>Normal</Type>
+				<Latitude>49.874833</Latitude>
+				<Longitude>7.080333</Longitude>
+				<Speed>230</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="3">
+				<Name>FH080</Name>
+				<Type>Normal</Type>
+				<Latitude>49.983333</Latitude>
+				<Longitude>7.037667</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>NVO</Name>
+				<Type>Normal</Type>
+				<Latitude>50.822667</Latitude>
+				<Longitude>6.636500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="RUDOT1S" Runways="21">
+			<Sid_Waypoint ID="1">
+				<Name>FH070</Name>
+				<Type>Normal</Type>
+				<Latitude>49.864333</Latitude>
+				<Longitude>7.178000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>FH073</Name>
+				<Type>Normal</Type>
+				<Latitude>49.874833</Latitude>
+				<Longitude>7.080333</Longitude>
+				<Speed>230</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="3">
+				<Name>FH080</Name>
+				<Type>Normal</Type>
+				<Latitude>49.983333</Latitude>
+				<Longitude>7.037667</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>RUDOT</Name>
+				<Type>Normal</Type>
+				<Latitude>49.993333</Latitude>
+				<Longitude>6.904333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+                <Sid Name="RUDOT1L" Runways="21">
+			<Sid_Waypoint ID="1">
+				<Name>FH076</Name>
+				<Type>Normal</Type>
+				<Latitude>49.794667</Latitude>
+				<Longitude>7.107167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="2">
+				<Name>FH078</Name>
+				<Type>Normal</Type>
+				<Latitude>49.806333,</Latitude>
+				<Longitude>6.987667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>RUDOT</Name>
+				<Type>Normal</Type>
+				<Latitude>49.993333</Latitude>
+				<Longitude>6.904333</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+                <Sid Name="IDARO4Y" Runways="21">
+			<Sid_Waypoint ID="1">
+				<Name>FH076</Name>
+				<Type>Normal</Type>
+				<Latitude>49.794667</Latitude>
+				<Longitude>7.107167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>FH075</Name>
+				<Type>Normal</Type>
+				<Latitude>49.740667</Latitude>
+				<Longitude>7.052333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>IDARO</Name>
+				<Type>Normal</Type>
+				<Latitude>49.706833</Latitude>
+				<Longitude>6.955167</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="GEBDA5L" Runways="21">
+			<Sid_Waypoint ID="1">
+				<Name>FH076</Name>
+				<Type>Normal</Type>
+				<Latitude>49.794667</Latitude>
+				<Longitude>7.107167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>FH075</Name>
+				<Type>Normal</Type>
+				<Latitude>49.740667</Latitude>
+				<Longitude>7.052333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5300</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>IDARO</Name>
+				<Type>Normal</Type>
+				<Latitude>49.706833</Latitude>
+				<Longitude>6.955167</Longitude>
+				<Speed>250</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>MAPIG</Name>
+				<Type>Normal</Type>
+				<Latitude>49.448167</Latitude>
+				<Longitude>7.039333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="5">
+				<Name>GEBDA</Name>
+				<Type>Normal</Type>
+				<Latitude>49.102500</Latitude>
+				<Longitude>8.287500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+		<Sid Name="ULKIG1S" Runways="21">
+			<Sid_Waypoint ID="1">
+				<Name>FH070</Name>
+				<Type>Normal</Type>
+				<Latitude>49.864333</Latitude>
+				<Longitude>7.178000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="2">
+				<Name>FH073</Name>
+				<Type>Normal</Type>
+				<Latitude>49.874833</Latitude>
+				<Longitude>7.080333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+                                <Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="3">
+				<Name>FH071</Name>
+				<Type>Normal</Type>
+				<Latitude>49.913333</Latitude>
+				<Longitude>7.104500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+			<Sid_Waypoint ID="4">
+				<Name>SOMIM</Name>
+				<Type>Normal</Type>
+				<Latitude>49.949500</Latitude>
+				<Longitude>7.197500</Longitude>
+				<Speed>230</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="5">
+				<Name>FH081</Name>
+				<Type>Normal</Type>
+				<Latitude>49.889167</Latitude>
+				<Longitude>7.594167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="6">
+				<Name>ULKIG</Name>
+				<Type>Normal</Type>
+				<Latitude>49.869667</Latitude>
+				<Longitude>7.719500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+                <Sid Name="ULKIG1L" Runways="21">
+			<Sid_Waypoint ID="1">
+				<Name>FH076</Name>
+				<Type>Normal</Type>
+				<Latitude>49.794667</Latitude>
+				<Longitude>7.107167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="2">
+				<Name>FH078</Name>
+				<Type>Normal</Type>
+				<Latitude>49.806333,</Latitude>
+				<Longitude>6.987667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="3">
+				<Name>FH077</Name>
+				<Type>Normal</Type>
+				<Latitude>49.849500,</Latitude>
+				<Longitude>7.011667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="4">
+				<Name>SOMIM</Name>
+				<Type>Normal</Type>
+				<Latitude>49.949500</Latitude>
+				<Longitude>7.197500</Longitude>
+				<Speed>230</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="5">
+				<Name>FH081</Name>
+				<Type>Normal</Type>
+				<Latitude>49.889167</Latitude>
+				<Longitude>7.594167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="6">
+				<Name>ULKIG</Name>
+				<Type>Normal</Type>
+				<Latitude>49.869667</Latitude>
+				<Longitude>7.719500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+                <Sid Name="OLIVI3S" Runways="21">
+			<Sid_Waypoint ID="1">
+				<Name>FH069</Name>
+				<Type>Normal</Type>
+				<Latitude>49.878167</Latitude>
+				<Longitude>7.192000</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4200</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="2">
+				<Name>FH079</Name>
+				<Type>Normal</Type>
+				<Latitude>49.837167,</Latitude>
+				<Longitude>7.217167</Longitude>
+				<Speed>210</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Flytype>Fly-by</Flytype>
+			</Sid_Waypoint>
+                        <Sid_Waypoint ID="6">
+				<Name>OLIVI</Name>
+				<Type>Normal</Type>
+				<Latitude>49.778333</Latitude>
+				<Longitude>7.605500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Sid_Waypoint>
+		</Sid>
+		<Star Name="ROPUV3K" Runways="03">
+			<Star_Waypoint ID="1">
+				<Name>ROPUV</Name>
+				<Type>Normal</Type>
+				<Latitude>50.222000</Latitude>
+				<Longitude>6.848333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>FH401</Name>
+				<Type>Normal</Type>
+				<Latitude>50.007500</Latitude>
+				<Longitude>7.168833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="3">
+				<Name>FH402</Name>
+				<Type>Normal</Type>
+				<Latitude>49.956333</Latitude>
+				<Longitude>7.118500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="4">
+				<Name>FH403</Name>
+				<Type>Normal</Type>
+				<Latitude>49.838500</Latitude>
+				<Longitude>7.003333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="5">
+				<Name>FH404</Name>
+				<Type>Normal</Type>
+				<Latitude>49.782167</Latitude>
+				<Longitude>6.948333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="6">
+				<Name>FH405</Name>
+				<Type>Normal</Type>
+				<Latitude>49.725833</Latitude>
+				<Longitude>6.893667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="7">
+				<Name>FH415</Name>
+				<Type>Normal</Type>
+				<Latitude>49.681500</Latitude>
+				<Longitude>7.002167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+                <Star Name="ROPUV4R">
+			<Star_Waypoint ID="1">
+				<Name>ROPUV</Name>
+				<Type>Normal</Type>
+				<Latitude>50.222000</Latitude>
+				<Longitude>6.848333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="2">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="EMGOD3K" Runways="03">
+			<Star_Waypoint ID="1">
+				<Name>EMGOD</Name>
+				<Type>Normal</Type>
+				<Latitude>50.196333</Latitude>
+				<Longitude>7.328833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>FH401</Name>
+				<Type>Normal</Type>
+				<Latitude>50.007500</Latitude>
+				<Longitude>7.168833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="3">
+				<Name>FH402</Name>
+				<Type>Normal</Type>
+				<Latitude>49.956333</Latitude>
+				<Longitude>7.118500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="4">
+				<Name>FH403</Name>
+				<Type>Normal</Type>
+				<Latitude>49.838500</Latitude>
+				<Longitude>7.003333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="5">
+				<Name>FH404</Name>
+				<Type>Normal</Type>
+				<Latitude>49.782167</Latitude>
+				<Longitude>6.948333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="6">
+				<Name>FH405</Name>
+				<Type>Normal</Type>
+				<Latitude>49.725833</Latitude>
+				<Longitude>6.893667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="7">
+				<Name>FH415</Name>
+				<Type>Normal</Type>
+				<Latitude>49.681500</Latitude>
+				<Longitude>7.002167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+                <Star Name="EMGOD4R">
+			<Star_Waypoint ID="1">
+				<Name>EMGOD</Name>
+				<Type>Normal</Type>
+				<Latitude>50.196333</Latitude>
+				<Longitude>7.328833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="2">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="OLGIL3K" Runways="03">
+			<Star_Waypoint ID="1">
+				<Name>OLGIL</Name>
+				<Type>Normal</Type>
+				<Latitude>49.987833</Latitude>
+				<Longitude>7.733833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>FH400</Name>
+				<Type>Normal</Type>
+				<Latitude>49.973167</Latitude>
+				<Longitude>7.441167</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="3">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="4">
+				<Name>FH402</Name>
+				<Type>Normal</Type>
+				<Latitude>49.956333</Latitude>
+				<Longitude>7.118500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="5">
+				<Name>FH403</Name>
+				<Type>Normal</Type>
+				<Latitude>49.838500</Latitude>
+				<Longitude>7.003333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="6">
+				<Name>FH404</Name>
+				<Type>Normal</Type>
+				<Latitude>49.782167</Latitude>
+				<Longitude>6.948333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="7">
+				<Name>FH405</Name>
+				<Type>Normal</Type>
+				<Latitude>49.725833</Latitude>
+				<Longitude>6.893667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="8">
+				<Name>FH415</Name>
+				<Type>Normal</Type>
+				<Latitude>49.681500</Latitude>
+				<Longitude>7.002167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+		<Star Name="OLIVI3K" Runways="03">
+			<Star_Waypoint ID="1">
+				<Name>OLIVI</Name>
+				<Type>Normal</Type>
+				<Latitude>49.778333</Latitude>
+				<Longitude>7.605500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>FH400</Name>
+				<Type>Normal</Type>
+				<Latitude>49.973167</Latitude>
+				<Longitude>7.441167</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="3">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="4">
+				<Name>FH402</Name>
+				<Type>Normal</Type>
+				<Latitude>49.956333</Latitude>
+				<Longitude>7.118500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="5">
+				<Name>FH403</Name>
+				<Type>Normal</Type>
+				<Latitude>49.838500</Latitude>
+				<Longitude>7.003333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="6">
+				<Name>FH404</Name>
+				<Type>Normal</Type>
+				<Latitude>49.782167</Latitude>
+				<Longitude>6.948333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="7">
+				<Name>FH405</Name>
+				<Type>Normal</Type>
+				<Latitude>49.725833</Latitude>
+				<Longitude>6.893667</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="8">
+				<Name>FH415</Name>
+				<Type>Normal</Type>
+				<Latitude>49.681500</Latitude>
+				<Longitude>7.002167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+                <Star Name="OLIVI3R">
+			<Star_Waypoint ID="1">
+				<Name>OLIVI</Name>
+				<Type>Normal</Type>
+				<Latitude>49.778333</Latitude>
+				<Longitude>7.605500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="2">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+                <Star Name="SIPVU2R">
+			<Star_Waypoint ID="1">
+				<Name>SIPVU</Name>
+				<Type>Normal</Type>
+				<Latitude>50.051167</Latitude>
+				<Longitude>7.425333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="2">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+                <Star Name="OLGIL1J" Runways="03">
+			<Star_Waypoint ID="1">
+				<Name>OLGIL</Name>
+				<Type>Normal</Type>
+				<Latitude>49.987833</Latitude>
+				<Longitude>7.733833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+			<Star_Waypoint ID="2">
+				<Name>FH400</Name>
+				<Type>Normal</Type>
+				<Latitude>49.973167</Latitude>
+				<Longitude>7.441167</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="3">
+				<Name>FH410</Name>
+				<Type>Normal</Type>
+				<Latitude>49.749500</Latitude>
+				<Longitude>7.220500</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="4">
+				<Name>FH411</Name>
+				<Type>Normal</Type>
+				<Latitude>49.693167</Latitude>
+				<Longitude>7.165500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="5">
+				<Name>FH12</Name>
+				<Type>Normal</Type>
+				<Latitude>49.637000</Latitude>
+				<Longitude>7.110500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="6">
+				<Name>FH415</Name>
+				<Type>Normal</Type>
+				<Latitude>49.681500</Latitude>
+				<Longitude>7.002167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+                <Star Name="OLIVI1J" Runways="03">
+			<Star_Waypoint ID="1">
+				<Name>OLIVI</Name>
+				<Type>Normal</Type>
+				<Latitude>49.778333</Latitude>
+				<Longitude>7.605500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="2">
+				<Name>FH410</Name>
+				<Type>Normal</Type>
+				<Latitude>49.749500</Latitude>
+				<Longitude>7.220500</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="3">
+				<Name>FH411</Name>
+				<Type>Normal</Type>
+				<Latitude>49.693167</Latitude>
+				<Longitude>7.165500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="4">
+				<Name>FH412</Name>
+				<Type>Normal</Type>
+				<Latitude>49.637000</Latitude>
+				<Longitude>7.110500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="5">
+				<Name>FH415</Name>
+				<Type>Normal</Type>
+				<Latitude>49.681500</Latitude>
+				<Longitude>7.002167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+                <Star Name="OLIVI3A" Runways="21">
+			<Star_Waypoint ID="1">
+				<Name>OLIVI</Name>
+				<Type>Normal</Type>
+				<Latitude>49.778333</Latitude>
+				<Longitude>7.605500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="2">
+				<Name>FH500</Name>
+				<Type>Normal</Type>
+				<Latitude>49.920500</Latitude>
+				<Longitude>7.388833</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="3">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="4">
+				<Name>FH501</Name>
+				<Type>Normal</Type>
+				<Latitude>50.009833</Latitude>
+				<Longitude>7.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="5">
+				<Name>FH502</Name>
+				<Type>Normal</Type>
+				<Latitude>50.075167</Latitude>
+				<Longitude>7.235667</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="6">
+				<Name>FH503</Name>
+				<Type>Normal</Type>
+				<Latitude>50.150667</Latitude>
+				<Longitude>7.310333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="7">
+				<Name>FH504</Name>
+				<Type>Normal</Type>
+				<Latitude>50.206833</Latitude>
+				<Longitude>7.366167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="8">
+				<Name>FH505</Name>
+				<Type>Normal</Type>
+				<Latitude>50.263000</Latitude>
+				<Longitude>7.422000</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="9">
+				<Name>FH506</Name>
+				<Type>Normal</Type>
+				<Latitude>50.218000</Latitude>
+				<Longitude>7.531500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="10">
+				<Name>FH515</Name>
+				<Type>Normal</Type>
+				<Latitude>50.162000</Latitude>
+				<Longitude>7.475333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+                <Star Name="OLIVI3B" Runways="21">
+			<Star_Waypoint ID="1">
+				<Name>OLIVI</Name>
+				<Type>Normal</Type>
+				<Latitude>49.778333</Latitude>
+				<Longitude>7.605500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="2">
+				<Name>FH510</Name>
+				<Type>Normal</Type>
+				<Latitude>50.061000</Latitude>
+				<Longitude>7.528500</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="3">
+				<Name>FH511</Name>
+				<Type>Normal</Type>
+				<Latitude>50.117000</Latitude>
+				<Longitude>7.584500</Longitude>
+				<Speed>185</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="4">
+				<Name>FH515</Name>
+				<Type>Normal</Type>
+				<Latitude>50.162000</Latitude>
+				<Longitude>7.475333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+                <Star Name="OLGIL3A" Runways="21">
+			<Star_Waypoint ID="1">
+				<Name>OLGIL</Name>
+				<Type>Normal</Type>
+				<Latitude>49.987833</Latitude>
+				<Longitude>7.733833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="2">
+				<Name>FH500</Name>
+				<Type>Normal</Type>
+				<Latitude>49.920500</Latitude>
+				<Longitude>7.388833</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="3">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="4">
+				<Name>FH501</Name>
+				<Type>Normal</Type>
+				<Latitude>50.009833</Latitude>
+				<Longitude>7.171167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="5">
+				<Name>FH502</Name>
+				<Type>Normal</Type>
+				<Latitude>50.075167</Latitude>
+				<Longitude>7.235667</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="6">
+				<Name>FH503</Name>
+				<Type>Normal</Type>
+				<Latitude>50.150667</Latitude>
+				<Longitude>7.310333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="7">
+				<Name>FH504</Name>
+				<Type>Normal</Type>
+				<Latitude>50.206833</Latitude>
+				<Longitude>7.366167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="8">
+				<Name>FH505</Name>
+				<Type>Normal</Type>
+				<Latitude>50.263000</Latitude>
+				<Longitude>7.422000</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="9">
+				<Name>FH506</Name>
+				<Type>Normal</Type>
+				<Latitude>50.218000</Latitude>
+				<Longitude>7.531500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="10">
+				<Name>FH515</Name>
+				<Type>Normal</Type>
+				<Latitude>50.162000</Latitude>
+				<Longitude>7.475333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+                <Star Name="OLGIL3B" Runways="21">
+			<Star_Waypoint ID="1">
+				<Name>OLGIL</Name>
+				<Type>Normal</Type>
+				<Latitude>49.987833</Latitude>
+				<Longitude>7.733833</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="2">
+				<Name>FH517</Name>
+				<Type>Normal</Type>
+				<Latitude>50.025000</Latitude>
+				<Longitude>7.615500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="3">
+				<Name>FH510</Name>
+				<Type>Normal</Type>
+				<Latitude>50.061000</Latitude>
+				<Longitude>7.528500</Longitude>
+				<Speed>185</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="4">
+				<Name>FH511</Name>
+				<Type>Normal</Type>
+				<Latitude>50.117000</Latitude>
+				<Longitude>7.584500</Longitude>
+				<Speed>185</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="5">
+				<Name>FH515</Name>
+				<Type>Normal</Type>
+				<Latitude>50.162000</Latitude>
+				<Longitude>7.475333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+                <Star Name="ROPUV3A" Runways="21">
+			<Star_Waypoint ID="1">
+				<Name>ROPUV</Name>
+				<Type>Normal</Type>
+				<Latitude>50.222000</Latitude>
+				<Longitude>6.848333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="2">
+				<Name>FH502</Name>
+				<Type>Normal</Type>
+				<Latitude>50.075167</Latitude>
+				<Longitude>7.235667</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="3">
+				<Name>FH503</Name>
+				<Type>Normal</Type>
+				<Latitude>50.150667</Latitude>
+				<Longitude>7.310333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="4">
+				<Name>FH504</Name>
+				<Type>Normal</Type>
+				<Latitude>50.206833</Latitude>
+				<Longitude>7.366167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="5">
+				<Name>FH505</Name>
+				<Type>Normal</Type>
+				<Latitude>50.263000</Latitude>
+				<Longitude>7.422000</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="6">
+				<Name>FH506</Name>
+				<Type>Normal</Type>
+				<Latitude>50.218000</Latitude>
+				<Longitude>7.531500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="7">
+				<Name>FH515</Name>
+				<Type>Normal</Type>
+				<Latitude>50.162000</Latitude>
+				<Longitude>7.475333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+                <Star Name="ROLIS3A" Runways="21">
+			<Star_Waypoint ID="1">
+				<Name>ROLIS</Name>
+				<Type>Normal</Type>
+				<Latitude>50.435000</Latitude>
+				<Longitude>7.825333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>6000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="2">
+				<Name>FH516</Name>
+				<Type>Normal</Type>
+				<Latitude>50.319000</Latitude>
+				<Longitude>7.478167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="3">
+				<Name>FH505</Name>
+				<Type>Normal</Type>
+				<Latitude>50.263000</Latitude>
+				<Longitude>7.422000</Longitude>
+				<Speed>220</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="4">
+				<Name>FH506</Name>
+				<Type>Normal</Type>
+				<Latitude>50.218000</Latitude>
+				<Longitude>7.531500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</Star_Waypoint>
+                        <Star_Waypoint ID="5">
+				<Name>FH515</Name>
+				<Type>Normal</Type>
+				<Latitude>50.162000</Latitude>
+				<Longitude>7.475333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</Star_Waypoint>
+		</Star>
+		<Approach Name="ILS03">
+			<App_Waypoint ID="1">
+				<Name>RINIR</Name>
+				<Type>Normal</Type>
+				<Latitude>49.787500</Latitude>
+				<Longitude>7.105500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>8.2FHH</Name>
+				<Type>Normal</Type>
+				<Latitude>49.8333</Latitude>
+				<Longitude>7.1508</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4080</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+                        <App_Waypoint ID="3">
+				<Name>0M</Name>
+				<Type>Normal</Type>
+				<Latitude>49.88475300</Latitude>
+				<Longitude>7.20020800</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2810</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+                        <App_Waypoint ID="4">
+				<Name>3.2FHH</Name>
+				<Type>Normal</Type>
+				<Latitude>49.9029</Latitude>
+				<Longitude>7.2189</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2520</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>RW03</Name>
+				<Type>Runway</Type>
+				<Latitude>49.937122</Latitude>
+				<Longitude>7.252503</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1638</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="6">
+				<Name>(4000)</Name>
+				<Type>Normal</Type>
+				<Latitude>50.035000</Latitude>
+				<Longitude>7.349500</Longitude>
+				<Speed>220</Speed>
+				<Altitude>4000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint ID="7">
+				<Name>(Intc)</Name>
+				<Type>Normal</Type>
+				<Latitude>49.9619</Latitude>
+				<Longitude>7.4110</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="8">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="9">
+				<Name>HAN</Name>
+				<Type>Hold</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>220</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Hld_Rad_or_Inbd>Inbd</Hld_Rad_or_Inbd>
+				<Hld_Rad_value>120</Hld_Rad_value>
+				<Hld_Turn>Left</Hld_Turn>
+				<Hld_Time_or_Dist>Time</Hld_Time_or_Dist>
+				<Hld_td_value>01.0</Hld_td_value>
+			</App_Waypoint>
+			<App_Transition Name="HAN">
+				<AppTr_Waypoint ID="1">
+					<Name>HAN</Name>
+					<Type>Normal</Type>
+					<Latitude>49.964883</Latitude>
+					<Longitude>7.280875</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>HAN</Name>
+					<Type>Hold</Type>
+					<Latitude>49.964883</Latitude>
+					<Longitude>7.280875</Longitude>
+					<Speed>230</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+					<Hld_Rad_or_Inbd>Inbd</Hld_Rad_or_Inbd>
+					<Hld_Rad_value>120</Hld_Rad_value>
+					<Hld_Turn>Left</Hld_Turn>
+					<Hld_Time_or_Dist>Time</Hld_Time_or_Dist>
+					<Hld_td_value>01.0</Hld_td_value>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="3">
+					<Name>12.1FHH</Name>
+					<Type>Normal</Type>
+					<Latitude>49.815722</Latitude>
+					<Longitude>7.032425</Longitude>
+					<Speed>210</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+					<Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+		</Approach>
+		<Approach Name="ILS21">
+			<App_Waypoint ID="1">
+				<Name>RALUV</Name>
+				<Type>Normal</Type>
+				<Latitude>50.105833</Latitude>
+				<Longitude>7.419500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>6.1FHH</Name>
+				<Type>Normal</Type>
+				<Latitude>50.0326</Latitude>
+				<Longitude>7.3465</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3250</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+                        <App_Waypoint ID="3">
+				<Name>OM</Name>
+				<Type>Normal</Type>
+				<Latitude>50.01307200</Latitude>
+				<Longitude>7.32748100</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2900</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+                        <App_Waypoint ID="4">
+				<Name>3.1FHH</Name>
+				<Type>Normal</Type>
+				<Latitude>49.9911</Latitude>
+				<Longitude>7.3056</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2290</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>RW21</Name>
+				<Type>Runway</Type>
+				<Latitude>49.960222</Latitude>
+				<Longitude>7.275286</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1595</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="6">
+				<Name>10.7FHH</Name>
+				<Type>Normal</Type>
+				<Latitude>49.7976</Latitude>
+				<Longitude>7.1155</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>below</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint ID="7">
+				<Name>(intc)</Name>
+				<Type>Normal</Type>
+				<Latitude>49.8667</Latitude>
+				<Longitude>6.9362</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+                                <Flytype>Fly-by</Flytype>
+			</App_Waypoint>
+                        <App_Waypoint ID="8">
+				<Name>(intc)</Name>
+				<Type>Normal</Type>
+				<Latitude>49.989500</Latitude>
+				<Longitude>7.062333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="9">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="10">
+				<Name>HAN</Name>
+				<Type>Hold</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>230</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Hld_Rad_or_Inbd>Inbd</Hld_Rad_or_Inbd>
+				<Hld_Rad_value>120</Hld_Rad_value>
+				<Hld_Turn>Left</Hld_Turn>
+				<Hld_Time_or_Dist>Time</Hld_Time_or_Dist>
+				<Hld_td_value>01.0</Hld_td_value>
+			</App_Waypoint>
+			<App_Transition Name="HAN">
+				<AppTr_Waypoint ID="1">
+					<Name>HAN</Name>
+					<Type>Normal</Type>
+					<Latitude>49.964883</Latitude>
+					<Longitude>7.280875</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>HAN</Name>
+					<Type>Hold</Type>
+					<Latitude>49.964883</Latitude>
+					<Longitude>7.280875</Longitude>
+					<Speed>230</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+					<Hld_Rad_or_Inbd>Inbd</Hld_Rad_or_Inbd>
+					<Hld_Rad_value>120</Hld_Rad_value>
+					<Hld_Turn>Left</Hld_Turn>
+					<Hld_Time_or_Dist>Time</Hld_Time_or_Dist>
+					<Hld_td_value>01.0</Hld_td_value>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="3">
+					<Name>13.1FHH</Name>
+					<Type>Normal</Type>
+					<Latitude>50.152706</Latitude>
+					<Longitude>7.364181</Longitude>
+					<Speed>210</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+					<Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+		</Approach>
+                <Approach Name="RNP03">
+			<App_Waypoint ID="1">
+				<Name>RINIR</Name>
+				<Type>Normal</Type>
+				<Latitude>49.787500</Latitude>
+				<Longitude>7.105500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>D7.5</Name>
+				<Type>Normal</Type>
+				<Latitude>49.8282</Latitude>
+				<Longitude>7.1459</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4080</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+                        <App_Waypoint ID="3">
+				<Name>D4.6</Name>
+				<Type>Normal</Type>
+				<Latitude>49.8688</Latitude>
+				<Longitude>7.1856</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4080</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+                        <App_Waypoint ID="4">
+				<Name>D2.0</Name>
+				<Type>Normal</Type>
+				<Latitude>49.9053</Latitude>
+				<Longitude>7.2213</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2330</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>RW03</Name>
+				<Type>Runway</Type>
+				<Latitude>49.937122</Latitude>
+				<Longitude>7.252503</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1638</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="6">
+				<Name>(4000)</Name>
+				<Type>Normal</Type>
+				<Latitude>50.035000</Latitude>
+				<Longitude>7.349500</Longitude>
+				<Speed>220</Speed>
+				<Altitude>4000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint ID="7">
+				<Name>(Intc)</Name>
+				<Type>Normal</Type>
+				<Latitude>49.9619</Latitude>
+				<Longitude>7.4110</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="8">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="9">
+				<Name>HAN</Name>
+				<Type>Hold</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>220</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Hld_Rad_or_Inbd>Inbd</Hld_Rad_or_Inbd>
+				<Hld_Rad_value>120</Hld_Rad_value>
+				<Hld_Turn>Left</Hld_Turn>
+				<Hld_Time_or_Dist>Time</Hld_Time_or_Dist>
+				<Hld_td_value>01.0</Hld_td_value>
+			</App_Waypoint>
+			<App_Transition Name="HAN">
+				<AppTr_Waypoint ID="1">
+					<Name>HAN</Name>
+					<Type>Normal</Type>
+					<Latitude>49.964883</Latitude>
+					<Longitude>7.280875</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="2">
+					<Name>FH010</Name>
+					<Type>Normal</Type>
+					<Latitude>49.867833</Latitude>
+					<Longitude>7.031833</Longitude>
+					<Speed>210</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="3">
+					<Name>FH012</Name>
+					<Type>Normal</Type>
+					<Latitude>49.775500</Latitude>
+					<Longitude>6.941833</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="4">
+					<Name>FH414</Name>
+					<Type>Normal</Type>
+					<Latitude>49.731167</Latitude>
+					<Longitude>7.050500</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+				</AppTr_Waypoint>
+			</App_Transition>
+		</Approach>
+		<Approach Name="RNP21">
+			<App_Waypoint ID="1">
+				<Name>RALUV</Name>
+				<Type>Normal</Type>
+				<Latitude>50.105833</Latitude>
+				<Longitude>7.419500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>D5.0</Name>
+				<Type>Normal</Type>
+				<Latitude>50.0308</Latitude>
+				<Longitude>7.3448</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3240</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+                        <App_Waypoint ID="3">
+				<Name>D2.0</Name>
+				<Type>Normal</Type>
+				<Latitude>49.9888</Latitude>
+				<Longitude>7.3034</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2290</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="4">
+				<Name>RW21</Name>
+				<Type>Runway</Type>
+				<Latitude>49.960222</Latitude>
+				<Longitude>7.275286</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1595</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+                        <App_Waypoint ID="5">
+				<Name>FH076</Name>
+				<Type>Normal</Type>
+				<Latitude>49.794667</Latitude>
+				<Longitude>7.107167</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+                                <Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+                        <App_Waypoint ID="6">
+				<Name>(intc)</Name>
+				<Type>Normal</Type>
+				<Latitude>49.8667</Latitude>
+				<Longitude>6.9362</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+                                <Flytype>Fly-by</Flytype>
+			</App_Waypoint>
+                        <App_Waypoint ID="7">
+				<Name>FH507</Name>
+				<Type>Normal</Type>
+				<Latitude>49.989500</Latitude>
+				<Longitude>7.062333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="8">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="9">
+				<Name>HAN</Name>
+				<Type>Hold</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>230</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Hld_Rad_or_Inbd>Inbd</Hld_Rad_or_Inbd>
+				<Hld_Rad_value>120</Hld_Rad_value>
+				<Hld_Turn>Left</Hld_Turn>
+				<Hld_Time_or_Dist>Time</Hld_Time_or_Dist>
+				<Hld_td_value>01.0</Hld_td_value>
+			</App_Waypoint>
+			<App_Transition Name="HAN">
+				<AppTr_Waypoint ID="1">
+					<Name>HAN</Name>
+					<Type>Normal</Type>
+					<Latitude>49.964883</Latitude>
+					<Longitude>7.280875</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+                                        <Flytype>Fly-by</Flytype>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="2">
+					<Name>FH502</Name>
+					<Type>Normal</Type>
+					<Latitude>50.075167</Latitude>
+					<Longitude>7.235667</Longitude>
+					<Speed>210</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="3">
+					<Name>FH031</Name>
+					<Type>Normal</Type>
+					<Latitude>50.206833</Latitude>
+					<Longitude>7.366167</Longitude>
+					<Speed>0</Speed>
+					<Altitude>0</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>at</AltitudeRestriction>
+				</AppTr_Waypoint>
+                                <AppTr_Waypoint ID="4">
+					<Name>FH515</Name>
+					<Type>Normal</Type>
+					<Latitude>50.162000</Latitude>
+                                        <Longitude>7.475333</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+				</AppTr_Waypoint>
+			</App_Transition>
+		</Approach>
+                <Approach Name="NDB03">
+			<App_Waypoint ID="1">
+				<Name>RINIR</Name>
+				<Type>Normal</Type>
+				<Latitude>49.787500</Latitude>
+				<Longitude>7.105500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>8.2FHH</Name>
+				<Type>Normal</Type>
+				<Latitude>49.8333</Latitude>
+				<Longitude>7.1508</Longitude>
+				<Speed>0</Speed>
+				<Altitude>4080</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+                        <App_Waypoint ID="3">
+				<Name>3.2FHH</Name>
+				<Type>Normal</Type>
+				<Latitude>49.9029</Latitude>
+				<Longitude>7.2189</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2520</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="4">
+				<Name>RW03</Name>
+				<Type>Runway</Type>
+				<Latitude>49.937122</Latitude>
+				<Longitude>7.252503</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1638</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>(4000)</Name>
+				<Type>Normal</Type>
+				<Latitude>50.035000</Latitude>
+				<Longitude>7.349500</Longitude>
+				<Speed>220</Speed>
+				<Altitude>4000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint ID="6">
+				<Name>(Intc)</Name>
+				<Type>Normal</Type>
+				<Latitude>49.9619</Latitude>
+				<Longitude>7.4110</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="7">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="8">
+				<Name>HAN</Name>
+				<Type>Hold</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>220</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Hld_Rad_or_Inbd>Inbd</Hld_Rad_or_Inbd>
+				<Hld_Rad_value>120</Hld_Rad_value>
+				<Hld_Turn>Left</Hld_Turn>
+				<Hld_Time_or_Dist>Time</Hld_Time_or_Dist>
+				<Hld_td_value>01.0</Hld_td_value>
+			</App_Waypoint>
+			<App_Transition Name="HAN">
+				<AppTr_Waypoint ID="1">
+					<Name>HAN</Name>
+					<Type>Normal</Type>
+					<Latitude>49.964883</Latitude>
+					<Longitude>7.280875</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>HAN</Name>
+					<Type>Hold</Type>
+					<Latitude>49.964883</Latitude>
+					<Longitude>7.280875</Longitude>
+					<Speed>230</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+					<Hld_Rad_or_Inbd>Inbd</Hld_Rad_or_Inbd>
+					<Hld_Rad_value>120</Hld_Rad_value>
+					<Hld_Turn>Left</Hld_Turn>
+					<Hld_Time_or_Dist>Time</Hld_Time_or_Dist>
+					<Hld_td_value>01.0</Hld_td_value>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="3">
+					<Name>FH014</Name>
+					<Type>Normal</Type>
+					<Latitude>49.815722</Latitude>
+					<Longitude>7.032425</Longitude>
+					<Speed>210</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+					<Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+		</Approach>
+		<Approach Name="NDB21">
+			<App_Waypoint ID="1">
+				<Name>RALUV</Name>
+				<Type>Normal</Type>
+				<Latitude>50.105833</Latitude>
+				<Longitude>7.419500</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>above</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="2">
+				<Name>6.1FHH</Name>
+				<Type>Normal</Type>
+				<Latitude>50.0326</Latitude>
+				<Longitude>7.3465</Longitude>
+				<Speed>0</Speed>
+				<Altitude>3250</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+                        <App_Waypoint ID="3">
+				<Name>3.1FHH</Name>
+				<Type>Normal</Type>
+				<Latitude>49.9911</Latitude>
+				<Longitude>7.3056</Longitude>
+				<Speed>0</Speed>
+				<Altitude>2290</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="4">
+				<Name>RW21</Name>
+				<Type>Runway</Type>
+				<Latitude>49.960222</Latitude>
+				<Longitude>7.275286</Longitude>
+				<Speed>0</Speed>
+				<Altitude>1595</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="5">
+				<Name>10.7FHH</Name>
+				<Type>Normal</Type>
+				<Latitude>49.7976</Latitude>
+				<Longitude>7.1155</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>below</AltitudeRestriction>
+				<Flytype>Fly-over</Flytype>
+			</App_Waypoint>
+			<App_Waypoint ID="6">
+				<Name>(intc)</Name>
+				<Type>Normal</Type>
+				<Latitude>49.8667</Latitude>
+				<Longitude>6.9362</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+                                <Flytype>Fly-by</Flytype>
+			</App_Waypoint>
+                        <App_Waypoint ID="7">
+				<Name>(intc)</Name>
+				<Type>Normal</Type>
+				<Latitude>49.989500</Latitude>
+				<Longitude>7.062333</Longitude>
+				<Speed>0</Speed>
+				<Altitude>0</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="8">
+				<Name>HAN</Name>
+				<Type>Normal</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>0</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+			</App_Waypoint>
+			<App_Waypoint ID="9">
+				<Name>HAN</Name>
+				<Type>Hold</Type>
+				<Latitude>49.964883</Latitude>
+				<Longitude>7.280875</Longitude>
+				<Speed>230</Speed>
+				<Altitude>5000</Altitude>
+				<AltitudeCons>0</AltitudeCons>
+				<AltitudeRestriction>at</AltitudeRestriction>
+				<Hld_Rad_or_Inbd>Inbd</Hld_Rad_or_Inbd>
+				<Hld_Rad_value>120</Hld_Rad_value>
+				<Hld_Turn>Left</Hld_Turn>
+				<Hld_Time_or_Dist>Time</Hld_Time_or_Dist>
+				<Hld_td_value>01.0</Hld_td_value>
+			</App_Waypoint>
+			<App_Transition Name="HAN">
+				<AppTr_Waypoint ID="1">
+					<Name>HAN</Name>
+					<Type>Normal</Type>
+					<Latitude>49.964883</Latitude>
+					<Longitude>7.280875</Longitude>
+					<Speed>0</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="2">
+					<Name>HAN</Name>
+					<Type>Hold</Type>
+					<Latitude>49.964883</Latitude>
+					<Longitude>7.280875</Longitude>
+					<Speed>230</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+					<Hld_Rad_or_Inbd>Inbd</Hld_Rad_or_Inbd>
+					<Hld_Rad_value>120</Hld_Rad_value>
+					<Hld_Turn>Left</Hld_Turn>
+					<Hld_Time_or_Dist>Time</Hld_Time_or_Dist>
+					<Hld_td_value>01.0</Hld_td_value>
+				</AppTr_Waypoint>
+				<AppTr_Waypoint ID="3">
+					<Name>FH005</Name>
+					<Type>Normal</Type>
+					<Latitude>50.152706</Latitude>
+					<Longitude>7.364181</Longitude>
+					<Speed>210</Speed>
+					<Altitude>5000</Altitude>
+					<AltitudeCons>0</AltitudeCons>
+					<AltitudeRestriction>above</AltitudeRestriction>
+					<Flytype>Fly-over</Flytype>
+				</AppTr_Waypoint>
+			</App_Transition>
+		</Approach>
+	</Airport>
+</ProceduresDB>
