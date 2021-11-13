@@ -1,8 +1,8 @@
 OBJECT_SHARED Models/Power/windturbine.xml 7.1722222 49.8763889 536.44 180
-OBJECT_SHARED Models/Airport/marker.ac 7.200208 49.884753 475.51 180
-OBJECT_SHARED Models/Airport/marker.ac 7.245367 49.930717 504.12 180
+#OBJECT_SHARED Models/Airport/marker.ac 7.200208 49.884753 475.51 180
+#OBJECT_SHARED Models/Airport/marker.ac 7.245367 49.930717 504.12 180
 OBJECT_SHARED Models/Misc/generic_church_02.ac 7.0225 49.9177778 121.49 180
-OBJECT_SHARED Models/Airport/localizer.xml 7.244211 49.928708 505.98 148
+#OBJECT_SHARED Models/Airport/localizer.xml 7.244211 49.928708 505.98 148
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.002239 49.996031 176.96 227.74
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.006069 49.998741 176.32 227.81
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 7.008377 49.978401 101.46 98.32
