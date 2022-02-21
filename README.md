@@ -8,7 +8,7 @@ Custom scenery of the Hunsrueck region for FlightGear flight simulator
 	* new secondary/cargo buildings
 	* FMS procedures for all runways
 	* new ILS + navaid
-	* (todo) new parking positios
+	* new parking positios
 * Idar-Oberstein (EDRG)
 	* all main/secondary buildings
 	* updated airport layout config
@@ -51,6 +51,13 @@ Custom scenery of the Hunsrueck region for FlightGear flight simulator
 	https://gitlab.com/osm2city
 * osm raw data:
 	https://download.geofabrik.de/
+
+### More useful links:
+
+* FlightGear wiki:
+	https://wiki.flightgear.org/Frankfurt-Hahn_Airport
+* Frankfurt-Main custom scenery:
+	https://github.com/D-Sven/Frankfurt
 
 ### Special thanks to:
 

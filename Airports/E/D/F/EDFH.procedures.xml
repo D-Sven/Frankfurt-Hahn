@@ -370,7 +370,7 @@
 				<Altitude>0</Altitude>
 				<AltitudeCons>0</AltitudeCons>
 				<AltitudeRestriction>at</AltitudeRestriction>
-				<Flytype>Fly-over</Flytype>
+				<Flytype>Fly-by</Flytype>
 			</Sid_Waypoint>
 			<Sid_Waypoint ID="3">
 				<Name>FH064</Name>
