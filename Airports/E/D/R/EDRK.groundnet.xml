@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="ga" name="Gras_1" lat="N50 19.381616" lon="E7 31.463443" heading="147.00" />
+        <Parking index="1" type="ga" name="Gras_2" lat="N50 19.388209" lon="E7 31.479349" heading="147.00" />
+        <Parking index="2" type="ga" name="Gras_3" lat="N50 19.395932" lon="E7 31.496917" heading="147.00" />
+        <Parking index="3" type="ga" name="Gras_4" lat="N50 19.403767" lon="E7 31.514224" heading="147.00" />
+        <Parking index="4" type="ga" name="Gras_5" lat="N50 19.412036" lon="E7 31.533964" heading="147.00" />
+        <Parking index="5" type="ga" name="Gras_6" lat="N50 19.459040" lon="E7 31.642349" heading="147.00" />
+        <Parking index="6" type="ga" name="Gras_7" lat="N50 19.468889" lon="E7 31.665405" heading="147.00" />
+        <Parking index="7" type="ga" name="Gras_8" lat="N50 19.478746" lon="E7 31.689513" heading="147.00" />
+        <Parking index="8" type="ga" name="Gras_9" lat="N50 19.490284" lon="E7 31.716574" heading="147.00" />
+        <Parking index="9" type="ga" name="Gras_10" lat="N50 19.510333" lon="E7 31.764137" heading="147.00" />
+        <Parking index="10" type="ga" name="Gras_11" lat="N50 19.523512" lon="E7 31.793820" heading="147.00" />
+        <Parking index="11" type="ga" name="Gras_12" lat="N50 19.541228" lon="E7 31.834106" heading="147.00" />
+        <Parking index="13" type="ga" name="Gras_13" lat="N50 19.559347" lon="E7 31.877521" heading="147.00" />
+        <Parking index="14" type="ga" name="Hangars_1" lat="N50 19.526627" lon="E7 31.875864" heading="327.00" />
+        <Parking index="14" type="ga" name="Hangars_2" lat="N50 19.521099" lon="E7 31.864458" heading="327.00" />
+        <Parking index="15" type="ga" name="Hangars_3" lat="N50 19.490693" lon="E7 31.804761" heading="327.00" />
+        <Parking index="16" type="ga" name="Hangars_4" lat="N50 19.464563" lon="E7 31.752560" heading="327.00" />
+        <Parking index="17" type="ga" name="Hangars_5" lat="N50 19.456870" lon="E7 31.734301" heading="327.00" />
+        <Parking index="18" type="ga" name="Polizei_1" lat="N50 19.440744" lon="E7 31.690894" heading="237.00" />
+        <Parking index="19" type="ga" name="Polizei_2" lat="N50 19.433236" lon="E7 31.673035" heading="237.00" />
+        <Parking index="20" type="ga" name="Fuel_1" lat="N50 19.420482" lon="E7 31.621165" heading="237.00" />
+        <Parking index="21" type="ga" name="Fuel_2" lat="N50 19.411438" lon="E7 31.628450" heading="57.00" />
+        <Parking index="22" type="ga" name="Hangar_west" lat="N50 19.356464" lon="E7 31.457084" heading="327.00" />
+        <Parking index="23" type="ga" name="Aeroclub_1" lat="N50 19.743306" lon="E7 32.069353" heading="160.00" />
+        <Parking index="24" type="ga" name="Aeroclub_2" lat="N50 19.733293" lon="E7 32.010487" heading="90.00" />
+ </parkingList>
+</groundnet>
+
+<!--
+Grass parking from west to east
+7.52439072 50.32302693 hdg 147
+7.52465582 50.32313681 hdg 147
+7.52494862 50.32326553 hdg 147
+7.52523707 50.32339612 hdg 147
+7.52556606 50.32353393 hdg 147
+7.52737248 50.32431734 hdg 147
+7.52775675 50.32448148 hdg 147
+7.52815855 50.32464577 hdg 147
+7.52860956 50.32483807 hdg 147
+7.52940228 50.32517222 hdg 147
+7.52989700 50.32539186 hdg 147
+7.53056843 50.32568713 hdg 147
+7.53129201 50.32598911 hdg 147
+
+Main Hangar parking east to west
+7.53126440 50.32544378 hdg 327
+7.53107430 50.32535165 hdg 327
+7.53007935 50.32484489 hdg 327
+7.52920933 50.32440939 hdg 327
+7.52890502 50.32428117 hdg 327
+
+Polizei
+7.52818157 50.32401240 hdg 247
+7.52788391 50.32388727 hdg 247
+
+Fuel station
+7.52701942 50.32367470 hdg 247
+7.52714083 50.32352396 hdg 67
+
+Hangar west
+7.52428474 50.32260774 hdg 327
+
+Aeroclub 1 and 2 
+7.53448921 50.32905510 hdg 160
+7.53350811 50.32888822 hdg 90
+
+-->
+

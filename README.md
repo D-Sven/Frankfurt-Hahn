@@ -9,9 +9,12 @@ Custom scenery of the Hunsrueck region for FlightGear flight simulator
 	* FMS procedures for all runways
 	* new ILS + navaid
 	* new parking positios
+* Koblenz-Winningen (EDRK)
+	* all main/secondary buildings
+	* updated airport layout
 * Idar-Oberstein (EDRG)
 	* all main/secondary buildings
-	* updated airport layout config
+	* updated airport layout
 * Bad Sobernheim (EDRS)
 	* all main/secondary buildings
 	* updated airport layout

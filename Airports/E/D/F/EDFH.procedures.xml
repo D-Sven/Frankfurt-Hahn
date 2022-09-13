@@ -2022,36 +2022,6 @@
 				<AltitudeRestriction>above</AltitudeRestriction>
 			</App_Waypoint>
 			<App_Waypoint ID="2">
-				<Name>D7.5</Name>
-				<Type>Normal</Type>
-				<Latitude>49.8282</Latitude>
-				<Longitude>7.1459</Longitude>
-				<Speed>0</Speed>
-				<Altitude>4080</Altitude>
-				<AltitudeCons>0</AltitudeCons>
-				<AltitudeRestriction>at</AltitudeRestriction>
-			</App_Waypoint>
-                        <App_Waypoint ID="3">
-				<Name>D4.6</Name>
-				<Type>Normal</Type>
-				<Latitude>49.8688</Latitude>
-				<Longitude>7.1856</Longitude>
-				<Speed>0</Speed>
-				<Altitude>4080</Altitude>
-				<AltitudeCons>0</AltitudeCons>
-				<AltitudeRestriction>at</AltitudeRestriction>
-			</App_Waypoint>
-                        <App_Waypoint ID="4">
-				<Name>D2.0</Name>
-				<Type>Normal</Type>
-				<Latitude>49.9053</Latitude>
-				<Longitude>7.2213</Longitude>
-				<Speed>0</Speed>
-				<Altitude>2330</Altitude>
-				<AltitudeCons>0</AltitudeCons>
-				<AltitudeRestriction>at</AltitudeRestriction>
-			</App_Waypoint>
-			<App_Waypoint ID="5">
 				<Name>RW03</Name>
 				<Type>Runway</Type>
 				<Latitude>49.937122</Latitude>
@@ -2061,7 +2031,7 @@
 				<AltitudeCons>0</AltitudeCons>
 				<AltitudeRestriction>at</AltitudeRestriction>
 			</App_Waypoint>
-			<App_Waypoint ID="6">
+			<App_Waypoint ID="3">
 				<Name>(4000)</Name>
 				<Type>Normal</Type>
 				<Latitude>50.035000</Latitude>
@@ -2072,7 +2042,7 @@
 				<AltitudeRestriction>above</AltitudeRestriction>
 				<Flytype>Fly-over</Flytype>
 			</App_Waypoint>
-			<App_Waypoint ID="7">
+			<App_Waypoint ID="4">
 				<Name>(Intc)</Name>
 				<Type>Normal</Type>
 				<Latitude>49.9619</Latitude>
@@ -2082,7 +2052,7 @@
 				<AltitudeCons>0</AltitudeCons>
 				<AltitudeRestriction>at</AltitudeRestriction>
 			</App_Waypoint>
-			<App_Waypoint ID="8">
+			<App_Waypoint ID="5">
 				<Name>HAN</Name>
 				<Type>Normal</Type>
 				<Latitude>49.964883</Latitude>
@@ -2092,7 +2062,7 @@
 				<AltitudeCons>0</AltitudeCons>
 				<AltitudeRestriction>at</AltitudeRestriction>
 			</App_Waypoint>
-			<App_Waypoint ID="9">
+			<App_Waypoint ID="6">
 				<Name>HAN</Name>
 				<Type>Hold</Type>
 				<Latitude>49.964883</Latitude>
@@ -2162,26 +2132,6 @@
 				<AltitudeRestriction>above</AltitudeRestriction>
 			</App_Waypoint>
 			<App_Waypoint ID="2">
-				<Name>D5.0</Name>
-				<Type>Normal</Type>
-				<Latitude>50.0308</Latitude>
-				<Longitude>7.3448</Longitude>
-				<Speed>0</Speed>
-				<Altitude>3240</Altitude>
-				<AltitudeCons>0</AltitudeCons>
-				<AltitudeRestriction>at</AltitudeRestriction>
-			</App_Waypoint>
-                        <App_Waypoint ID="3">
-				<Name>D2.0</Name>
-				<Type>Normal</Type>
-				<Latitude>49.9888</Latitude>
-				<Longitude>7.3034</Longitude>
-				<Speed>0</Speed>
-				<Altitude>2290</Altitude>
-				<AltitudeCons>0</AltitudeCons>
-				<AltitudeRestriction>at</AltitudeRestriction>
-			</App_Waypoint>
-			<App_Waypoint ID="4">
 				<Name>RW21</Name>
 				<Type>Runway</Type>
 				<Latitude>49.960222</Latitude>
@@ -2191,7 +2141,7 @@
 				<AltitudeCons>0</AltitudeCons>
 				<AltitudeRestriction>at</AltitudeRestriction>
 			</App_Waypoint>
-                        <App_Waypoint ID="5">
+                        <App_Waypoint ID="3">
 				<Name>FH076</Name>
 				<Type>Normal</Type>
 				<Latitude>49.794667</Latitude>
@@ -2202,7 +2152,7 @@
 				<AltitudeRestriction>at</AltitudeRestriction>
                                 <Flytype>Fly-over</Flytype>
 			</App_Waypoint>
-                        <App_Waypoint ID="6">
+                        <App_Waypoint ID="4">
 				<Name>(intc)</Name>
 				<Type>Normal</Type>
 				<Latitude>49.8667</Latitude>
@@ -2213,7 +2163,7 @@
 				<AltitudeRestriction>at</AltitudeRestriction>
                                 <Flytype>Fly-by</Flytype>
 			</App_Waypoint>
-                        <App_Waypoint ID="7">
+                        <App_Waypoint ID="5">
 				<Name>FH507</Name>
 				<Type>Normal</Type>
 				<Latitude>49.989500</Latitude>
@@ -2223,7 +2173,7 @@
 				<AltitudeCons>0</AltitudeCons>
 				<AltitudeRestriction>at</AltitudeRestriction>
 			</App_Waypoint>
-			<App_Waypoint ID="8">
+			<App_Waypoint ID="6">
 				<Name>HAN</Name>
 				<Type>Normal</Type>
 				<Latitude>49.964883</Latitude>
@@ -2233,7 +2183,7 @@
 				<AltitudeCons>0</AltitudeCons>
 				<AltitudeRestriction>at</AltitudeRestriction>
 			</App_Waypoint>
-			<App_Waypoint ID="9">
+			<App_Waypoint ID="7">
 				<Name>HAN</Name>
 				<Type>Hold</Type>
 				<Latitude>49.964883</Latitude>
